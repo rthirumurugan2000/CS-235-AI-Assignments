@@ -1,8 +1,5 @@
 # Artificial Intelligence Assignments (CS-235)
 
-This repository contains all the assignments related to the course CS 231.
+This repository contains all my assignments related to the course CS 231. (1801185)
 
-(Winter semester 2020)
-
-1801185 CG 2
 
