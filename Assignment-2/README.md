@@ -1,4 +1,4 @@
-# Travelling Salesman using A* algorithm
+# Travelling Salesman problem using A* algorithm
 
 
 
